@@ -7,7 +7,7 @@
 }
 
 .hero-footer{
-    background-color: 1f2937;
+    background-color: #1f2937;
 }
 
 .hero-main-text{
@@ -19,4 +19,15 @@
 .hero-secondary-text{
     color: e5e7eb;
     font-size: 18px;
+}
+
+.header-logo-text{
+    font-size: 24px;
+    color:#f9faf8;
+}
+
+.header-menu{
+    display:flex;
+    justify-items: flex-end;
+    align-items: center;
 }

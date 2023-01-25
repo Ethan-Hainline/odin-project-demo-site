@@ -17,17 +17,22 @@
 }
 
 .hero-secondary-text{
-    color: e5e7eb;
+    color: #e5e7eb;
     font-size: 18px;
 }
 
 .header-logo-text{
     font-size: 24px;
     color:#f9faf8;
+    margin-left:30px;
+    align-content: center;
 }
 
 .header-menu{
-    display:flex;
-    justify-items: flex-end;
     align-items: center;
+    justify-items: flex-end;
+}
+
+.header-menu-links{
+    margin:30px;
 }

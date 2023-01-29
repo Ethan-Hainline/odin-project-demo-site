@@ -55,12 +55,12 @@ body{
 .button{
     color: #e5e7eb;
     background-color: #3882F6;
-    border:0;
     font-size: 18px;
     font-weight: bolder;
     width: 180px;
     height: 40px;
     border-radius: 10px;
+    border: 2px solid white;
 }
 
 .header-image{
@@ -68,4 +68,21 @@ body{
     height: 300px;
     width: 700px;
     padding: 0;
+}
+
+.info-header{
+    font-size:36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.cta-box{
+    margin: 150px;
+    background-color: #3882f6;
+    border-radius: 10px;
+}
+.cta{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
 }
